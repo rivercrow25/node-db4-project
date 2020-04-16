@@ -19,7 +19,8 @@
   "homepage": "https://github.com/rivercrow25/node-db4-project#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "knex": "^0.20.15"
+    "knex": "^0.20.15",
+    "sqlite3": "^4.1.1"
   },
   "devDependencies": {
     "nodemon": "^2.0.3"
